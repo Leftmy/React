@@ -1,0 +1,10 @@
+{
+  "trafficLight": {
+    "color": "green",
+    "stats": {
+      "red": 6,
+      "yellow": 8,
+      "green": 7
+    }
+  }
+}
